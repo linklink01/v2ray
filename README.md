@@ -1,4 +1,4 @@
-# docker-compose-v2fly-core
+# v2fly-core
 
 This use `docker-compose` to start v2ray.
 
